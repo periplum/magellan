@@ -1,5 +1,7 @@
 # magellan — the first circumnavigation, mapped
 
+[![Built with Periplum](https://img.shields.io/badge/built_with-Periplum-4da3ff)](https://periplum.js.org)
+
 The voyage of **Ferdinand Magellan** and **Juan Sebastián Elcano** (1519–1522), the first
 circumnavigation of the globe, plotted stop by stop as a chronological route.
 
