@@ -1,16 +1,26 @@
-# magellan — the first circumnavigation, mapped
+<table align="center">
+<tr><td align="center" width="640">
+
+## ▶&nbsp; [Open the interactive map](https://periplum.github.io/magellan/)
+
+🌍 &nbsp;The first circumnavigation of the globe, plotted stop by stop
+
+</td></tr>
+</table>
+
+# magellan
 
 [![Built with Periplum](https://img.shields.io/badge/built_with-Periplum-4da3ff)](https://periplum.js.org)
 
-The voyage of **Ferdinand Magellan** and **Juan Sebastián Elcano** (1519–1522), the first
-circumnavigation of the globe, plotted stop by stop as a chronological route.
+The voyage of **Ferdinand Magellan** and **Juan Sebastián Elcano** (1519–1522) as a
+chronological route. Blue = under Magellan; green = after Mactan, when Elcano brought the
+*Victoria* home. Press play to watch the fleet sail, or drag the date slider.
 
-**[▶ Open the map](https://periplum.github.io/magellan/)** — press play to watch the
-fleet sail, or drag the date slider.
+## Data & updates
 
-Blue = while Magellan led the expedition · green = after his death at Mactan, when Elcano
-brought the *Victoria* home.
+`data.json` is hand-curated from the historical record. The voyage is complete, so the data
+is **static** — there is no update script and no scheduled job.
 
-A showcase consumer of **[Periplum](https://github.com/periplum/periplum)** — the whole
-app is `index.html` (a dozen lines of config) plus `data.json`. The waypoints are
-hand-curated from the historical record; the voyage is complete, so the data is static.
+---
+
+Built with [Periplum](https://periplum.js.org) · [periplum.js.org](https://periplum.js.org)
